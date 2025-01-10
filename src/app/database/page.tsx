@@ -35,7 +35,7 @@ export default async function Database(){
   return (<>
     <div className='w-full flex-col flex items-center justify-center h-screen'>
       <button className="bg-blue-700 text-white border border-black rounded-md p-2   my-4 ">
-        <a href="http://localhost:3000/api" target='_blank'>See The API</a>
+        <a href="https://mongo-db-next-js-ten.vercel.app/api" target='_blank'>See The API</a>
       </button>
       <p>Or scroll down</p>
     </div>
