@@ -8,7 +8,7 @@ type Greeting = {
 }
 
 export default async function Back() {
-  return <div></div>/*
+  
   const baseUrl = "https://mongo-db-next-js-ten.vercel.app"
   const response = await fetch(`${baseUrl}/api`)
   const greetings: Greeting[] = await response.json()
@@ -25,5 +25,5 @@ export default async function Back() {
       </div>
       
     </div>
-  )*/
+  )
 }
