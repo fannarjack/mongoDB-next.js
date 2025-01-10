@@ -1,6 +1,6 @@
 //since we are using TypeScript we need to declare our type first
 import EditGreeting from "../components/editGreeting"
-import DeleteButton from "../components/deleteButton"
+
 
 type Greeting = {
   greeting:string;
